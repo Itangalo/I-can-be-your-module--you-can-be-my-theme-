@@ -1,7 +1,7 @@
-// $Id$
+// $Id: SINGME.txt,v 1.1.4.2 2010/12/30 10:38:07 itangalo Exp $
 
-YOUR THEME TO MY MODULE
------------------------
+I CAN BE YOUR MODULE (YOU CAN BE MY THEME)
+------------------------------------------
 
 
 ---
@@ -24,11 +24,11 @@ I can be your module, you can be my theme
 ---
 Slowly giving up on the Color module
   and everything just seems blue
-Can't you see, see â€“Â 'kay â€“
+Can't you see, see Ð 'kay Ð
   Can't you see that I need you?
 The patch is green and it's performing well
 
-But there's no pretending â€“Â we all can tell
+But there's no pretending Ð we all can tell
   I might be smart but it's ugly as hell
 
 
@@ -58,7 +58,7 @@ I'm a value without key
 I'm the drush I didn't make
 I'm a cookie without cake
 I'm a power ballade
-  without a solo break â€“ yeah!
+  without a solo break Ð yeah!
 
 
 ---
@@ -85,4 +85,4 @@ I can be your module, you can be my theme
 I can be your module, you can be my theme
 I can be your module, you can be my theme
 I can be your module, you can be my theme
-  Again and again and againâ€¦
+  Again and again and againâ ...

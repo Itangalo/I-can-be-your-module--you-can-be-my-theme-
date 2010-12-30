@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: powerballad.inc,v 1.1.2.1.2.1 2010/12/30 10:18:10 itangalo Exp $
 
 /**
  * @file

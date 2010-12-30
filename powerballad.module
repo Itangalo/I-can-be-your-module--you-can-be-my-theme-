@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: powerballad.module,v 1.1.2.1.2.2 2010/12/30 10:38:07 itangalo Exp $
 
 /**
  * Implementation of hook_init().
@@ -43,7 +43,9 @@ function powerballad_page() {
   powerballad_load_aspect(&$ballad, 'lyrics');
   //  powerballad_load_aspect(&$ballad, 'comments');
 
-  $header = t('This song is available under GPL. Your participation is welcome at !project-page. (Can you be my theme?)', array('!project-page' => l('the project page', 'http://http://drupal.org/project/powerballad')));
+  $header = t('This song is available under GPL. Your participation is welcome
+    at !project-page. (Can you be my theme?)', array('!project-page' =>
+      l('the project page', 'http://http://drupal.org/project/powerballad')));
   $footer = t('');
 
   return theme('ballad', array('ballad' => $ballad, 'header' => $header, 'footer' => $footer));
