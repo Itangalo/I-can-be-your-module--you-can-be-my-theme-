@@ -1,0 +1,7 @@
+; $Id$
+name = I can be your module
+description = Probably the first Drupal power ballad in the world.
+package = Drupal songs
+core = 7.x
+files[] = powerballad.inc
+files[] = powerballad.module

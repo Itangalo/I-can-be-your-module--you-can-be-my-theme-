@@ -1,0 +1,20 @@
+// $Id$
+
+YOUR THEME TO MY MODULE
+-----------------------
+
+
+## Chords
+
+Fig 1 (verse and chorus)
+|:G   Bm  Am  C D :|
+
+
+Fig 2 (break)
+|:C   D   Em  C D :|
+  C   D   Em------
+
+
+Fig 3 (solo)
+|:Em  D   C   D   :|
+  Em  D   C-------
